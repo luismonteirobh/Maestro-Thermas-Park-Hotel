@@ -1,0 +1,29 @@
+/* Cards do blog no modelo do Jurema (regras copiadas de jurema-custom.css; gerado por scripts/migrar/blog-cards.mjs) */
+.home-blog { --lp-blue: #012dd5; --lp-orange: #ea9600; --lp-ink: #0f172a; --lp-muted: #64748b; --lp-line: #e2e8f0; }
+.jurema-post-card { display: flex; flex-direction: column; height: 100%; background: #fff; border: 1px solid var(--lp-line); border-radius: 22px; overflow: hidden; text-decoration: none !important; box-shadow: 0 10px 28px rgba(15,23,42,.07); transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease; }
+.jurema-post-card:hover { transform: translateY(-5px); border-color: var(--lp-orange); box-shadow: 0 18px 40px rgba(15,23,42,.12); }
+.jurema-post-img { display: block; overflow: hidden; }
+.jurema-post-img img { width: 100%; height: auto; aspect-ratio: 16 / 10; object-fit: cover; display: block; transition: transform .4s ease; }
+.jurema-post-card:hover .jurema-post-img img { transform: scale(1.04); }
+.jurema-post-body { padding: 18px 20px 20px; display: flex; flex-direction: column; gap: 8px; flex: 1; text-align: left; }
+.jurema-post-cat { align-self: center; display: inline-block; background: #fff3db; color: #b45309; font-weight: 800; font-size: .7rem; text-transform: uppercase; letter-spacing: .05em; padding: 4px 12px; border-radius: 999px; }
+/* etiqueta decorativa: texto desenhado pelo CSS (regra 4 do projeto; o Yoast não lê seis frases começando com "Blog") */
+.jurema-post-cat::before { content: attr(data-label); }
+/* páginas com a regra geral [data-label]::after (Aguativa) não desenham a etiqueta duas vezes */
+.jurema-post-cat::after { content: none !important; }
+.jurema-post-title { font-family: var(--site-font-title); font-weight: 800; color: var(--lp-ink); font-size: 1.08rem; line-height: 1.35; }
+.jurema-post-desc { color: var(--lp-muted); font-size: .88rem; line-height: 1.55; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.jurema-post-more { margin-top: auto; padding-top: 6px; color: var(--lp-blue); font-family: var(--site-font-title); font-weight: 800; font-size: .85rem; }
+.jurema-post-more::after { content: " ▸"; color: var(--lp-orange); }
+.home-blog .jurema-slide { padding: 14px 12px 26px; height: 100%; }
+.home-blog .slick-track { display: flex !important; }
+.home-blog .slick-slide { height: auto !important; }
+.home-blog .slick-slide > div { height: 100%; }
+.home-blog .jurema-post-card { height: 100%; }
+.home-blog .jurema-post-title { font-size: 1.05rem; }
+.home-blog .slick-theme__carousel { padding-bottom: 34px; }
+.home-blog .slick-theme__carousel .slick-dots { bottom: 0; }
+.home-blog .slick-theme__carousel .slick-prev, .home-blog .slick-theme__carousel .slick-next { background: #ea9600; background-image: linear-gradient(90deg, #f7b733 0, #ea9600 40%, #d48400 60%, #f7b733); background-size: 300% auto; }
+.home-blog .slick-theme__carousel .slick-dots li button { background: rgba(1,45,213,.35); }
+.home-blog .slick-theme__carousel .slick-dots li.slick-active button { background: #ea9600; }
+@media (prefers-reduced-motion: reduce) { .jurema-post-card, .jurema-post-card:hover, .jurema-post-img img { transition: none; transform: none !important; } }

@@ -1,0 +1,22 @@
+{
+    "name": "Maestro Thermas Park & Hotel Fazenda – Circuito Águas Quentes",
+    "short_name": "Maestro Thermas",
+    "id": "/?app=maestro-thermas",
+    "lang": "pt-BR",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/maestro-thermas/shared/images/favicon/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/maestro-thermas/shared/images/favicon/favicon-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#012dd5",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}

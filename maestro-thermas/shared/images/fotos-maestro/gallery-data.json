@@ -1,0 +1,667 @@
+{
+  "fachada": {
+    "id": "fachada",
+    "themeClass": "theme-fachada",
+    "themeColor": "#EA9600",
+    "title": "Fachada do hotel fazenda & Recepção",
+    "badge": "✨ Bem-vindo ao Paraíso",
+    "coverImg": "/maestro-thermas/shared/images/fotos-maestro/fachada-do-hotel-com-letreiro-maestro-thermas-park-hotel-fazenda.webp",
+    "seoTitle": "Estrutura, Fachada e Recepção do Maestro Thermas Park & Hotel Fazenda",
+    "seoIntro": "O <strong>Maestro Thermas Park & Hotel Fazenda</strong> (antigo Anila Thermas) é o maior complexo hoteleiro e termal de Francisco Beltrão, no Sudoeste do Paraná. Localizado na Rodovia PR-483 (km 21), a propriedade harmoniza arquitetura acolhedora, jardins floridos com palmeiras imperiais e infraestrutura completa para famílias e convenções.",
+    "seoHighlights": [
+      "Recepção 24h e lounge de convivência amplo e climatizado",
+      "Estacionamento gratuito para carros de hóspedes e ônibus de excursão",
+      "Salas para eventos corporativos e casamentos (Sala Ipê para 60 pessoas, Sala Angelim para 80 e restaurante para 500)",
+      "Localização estratégica no trecho PR-483 entre Realeza e Francisco Beltrão"
+    ],
+    "photos": [
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/area-de-convivencia-com-sofas-resort-maestro-francisco-beltrao.webp",
+        "alt": "Área de convivência com sofás do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/calcada-entre-palmeiras-e-apartamentos-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Calçada entre palmeiras e apartamentos do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/deck-de-descanso-com-poltronas-no-jardim-resort-maestro-francisco-beltrao.webp",
+        "alt": "Deck de descanso com poltronas no jardim do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/fachada-do-hotel-com-letreiro-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Fachada do hotel com letreiro do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/fachada-moderna-e-jardim-resort-maestro-francisco-beltrao.webp",
+        "alt": "Fachada moderna e jardim do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/gazebos-com-cortinas-no-jardim-resort-maestro-francisco-beltrao.webp",
+        "alt": "Gazebos com cortinas no jardim do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/letreiro-eu-amo-maestro-na-entrada-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Letreiro \"\"#EU ♥ Maestro\"\" na entrada do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/piscina-com-toboaguas-e-gazebo-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Piscina com toboáguas e gazebo do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/recepcao-do-hotel-ao-por-do-sol-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Recepção do hotel ao pôr do sol do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/vista-aerea-centro-de-convivencia-entre-palmeiras-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Vista aérea centro de convivência entre palmeiras do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/vista-aerea-do-hotel-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Vista aérea do hotel do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/vista-panoramica-do-resort-resort-maestro-francisco-beltrao.webp",
+        "alt": "Vista panorâmica do hotel fazenda do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      }
+    ]
+  },
+  "termas": {
+    "id": "termas",
+    "themeClass": "theme-termas",
+    "themeColor": "#0090D4",
+    "title": "Complexo Coberto a 37 °C & Piscinas Termais",
+    "badge": "♨️ Águas Termais 37°C o Ano Todo",
+    "coverImg": "/maestro-thermas/shared/images/fotos-maestro/brinquedo-aquatico-infantil-na-piscina-coberta-parque-aquatico-maestro-francisco-beltrao.webp",
+    "seoTitle": "Piscinas Termais Cobertas a 37 °C e Parque Aquático com Toboáguas Radicais",
+    "seoIntro": "As piscinas do <strong>Maestro Thermas Park & Hotel Fazenda</strong> são abastecidas diretamente pelas fontes do Aquífero Guarani com água mineral, fluoretada, vanádica e hipertermal. O complexo coberto de mais de 1.000 m² mantém água aquecida a 37 °C constantemente, oferecendo conforto absoluto mesmo nos invernos rigorosos do Paraná.",
+    "seoHighlights": [
+      "Complexo coberto de 1.000 m² climatizado com temperatura constante de 37 °C",
+      "7 hidromassagens aquecidas para relaxamento muscular e revigoramento",
+      "Piscina infantil coberta com castelo e escorregadores aquáticos seguros",
+      "Área externa com 3 grandes piscinas adultas e toboáguas de 22m, 41m e 103m de extensão",
+      "Monitores treinados e salva-vidas para diversão com total segurança"
+    ],
+    "photos": [
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/area-baby-piscina-de-bolinhas-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Área baby piscina de bolinhas do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/brinquedo-aquatico-infantil-na-piscina-coberta-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Brinquedo aquático infantil na piscina coberta do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/drink-na-beira-da-piscina-resort-maestro-francisco-beltrao.webp",
+        "alt": "Drink na beira da piscina do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/escadas-dos-toboaguas-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Escadas dos toboáguas do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/familia-na-piscina-do-parque-aquatico-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Família na piscina do parque aquático do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/hibisco-e-piscina-resort-maestro-francisco-beltrao.webp",
+        "alt": "Hibisco e piscina do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/hidromassagem-aquecida-resort-maestro-francisco-beltrao.webp",
+        "alt": "Hidromassagem aquecida do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/hidromassagem-coberta-com-vista-para-o-hotel-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Hidromassagem coberta com vista para o hotel do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/hidromassagem-com-vista-para-toboaguas-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Hidromassagem com vista para toboáguas do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/ofuro-hidromassagem-e-piscina-externa-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Ofurô hidromassagem e piscina externa do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/parque-aquatico-infantil-coberto-com-criancas-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Parque aquático infantil coberto com crianças do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/parque-aquatico-infantil-coberto-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Parque aquático infantil coberto do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/parque-aquatico-piscinas-vista-de-cima-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Parque aquático piscinas vista de cima do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/piscina-coberta-aquecida-com-cascata-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Piscina coberta aquecida com cascata do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/piscina-coberta-envidracada-e-hidromassagem-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Piscina coberta envidraçada e hidromassagem do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/piscina-com-cogumelo-de-agua-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Piscina com cogumelo de água do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/piscina-com-escorregador-infantil-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Piscina com escorregador infantil do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/piscina-com-golfinho-e-espreguicadeiras-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Piscina com golfinho e espreguiçadeiras do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/piscina-com-toboaguas-e-gazebo-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Piscina com toboáguas e gazebo do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/piscina-em-frente-aos-apartamentos-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Piscina em frente aos apartamentos do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/piscina-infantil-coberta-com-cogumelo-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Piscina infantil coberta com cogumelo do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/piscina-principal-com-espreguicadeiras-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Piscina principal com espreguiçadeiras do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/piscinas-e-toboaguas-vista-do-alto-resort-maestro-francisco-beltrao.webp",
+        "alt": "Piscinas e toboáguas vista do alto do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/piscinas-externas-e-jardim-resort-maestro-francisco-beltrao.webp",
+        "alt": "Piscinas externas e jardim do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/recreacao-aquatica-com-monitores-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Recreação aquatica com monitores do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/toboagua-espiral-azul-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Toboágua espiral azul do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/toboaguas-coloridos-e-piscinas-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Toboáguas coloridos e piscinas do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/toboaguas-e-piscina-ao-ar-livre-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Toboáguas e piscina ao ar livre do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/toboaguas-gigantes-e-piscina-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Toboáguas gigantes e piscina do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/vista-aerea-chales-e-piscinas-resort-maestro-francisco-beltrao.webp",
+        "alt": "Vista aérea chalés e piscinas do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/vista-aerea-complexo-aquatico-resort-maestro-francisco-beltrao.webp",
+        "alt": "Vista aérea complexo aquático do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/vista-aerea-parque-aquatico-e-hotel-parque-aquatico-maestro-francisco-beltrao.webp",
+        "alt": "Vista aérea parque aquático e hotel do parque aquático Maestro Thermas Park, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/vista-aerea-piscinas-com-guarda-sois-resort-maestro-francisco-beltrao.webp",
+        "alt": "Vista aérea piscinas com guarda sóis do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/vista-da-sacada-para-a-piscina-resort-maestro-francisco-beltrao.webp",
+        "alt": "Vista da sacada para a piscina do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/vista-das-piscinas-entre-coqueiros-resort-maestro-francisco-beltrao.webp",
+        "alt": "Vista das piscinas entre coqueiros do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      }
+    ]
+  },
+  "quartos": {
+    "id": "quartos",
+    "themeClass": "theme-quartos",
+    "themeColor": "#4338CA",
+    "title": "Vila dos Lagos & Apartamentos",
+    "badge": "🏨 Acomodações Confortáveis",
+    "coverImg": "/maestro-thermas/shared/images/fotos-maestro/apartamentos-terreos-e-arvores-floridas-maestro-thermas-park-hotel-fazenda.webp",
+    "seoTitle": "Acomodações na Vila dos Lagos e Apartamentos do Maestro Thermas",
+    "seoIntro": "No <strong>Maestro Thermas Park & Hotel Fazenda</strong>, o repouso é prioridade. Com três blocos de hospedagem – <em>Vila dos Pássaros</em>, <em>Vila dos Lagos I</em> e a moderna <em>Vila dos Lagos II</em> (inaugurada em janeiro de 2026 com elevador) –, oferecemos configurações perfeitas para casais, famílias e grupos.",
+    "seoHighlights": [
+      "Quartos duplos, triplos, quádruplos e apartamentos familiares integrados",
+      "Ar-condicionado split silencioso, TV a cabo, frigobar e secador de cabelo",
+      "Enxoval completo de cama e banho higienizado com padrão hoteleiro superior",
+      "Vista panorâmica para as piscinas, jardins floridos e lagos da propriedade",
+      "Acessibilidade com elevador e quartos térreos adaptados"
+    ],
+    "photos": [
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/apartamentos-terreos-e-arvores-floridas-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Apartamentos térreos e árvores floridas do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/calcada-entre-palmeiras-e-apartamentos-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Calçada entre palmeiras e apartamentos do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/jardim-florido-e-predio-de-apartamentos-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Jardim florido e prédio de apartamentos do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/piscina-em-frente-aos-apartamentos-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Piscina em frente aos apartamentos do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/predio-dos-apartamentos-vista-externa-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Prédio dos apartamentos vista externa do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/quarto-casal-com-sacada-e-vista-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Quarto casal com sacada e vista do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/quarto-casal-com-sacada-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Quarto casal com sacada do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/quarto-casal-enxoval-resort-maestro-francisco-beltrao.webp",
+        "alt": "Quarto casal enxoval do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/quarto-casal-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Quarto casal do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/quarto-com-cama-de-casal-e-solteiro-resort-maestro-francisco-beltrao.webp",
+        "alt": "Quarto com cama de casal e solteiro do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/quarto-com-camas-de-solteiro-e-banheiro-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Quarto com camas de solteiro e banheiro do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/quarto-com-duas-camas-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Quarto com duas camas do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/quarto-com-tv-e-armario-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Quarto com TV e armário do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/quarto-com-tv-e-frigobar-resort-maestro-francisco-beltrao.webp",
+        "alt": "Quarto com TV e frigobar do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/quarto-familia-com-camas-de-solteiro-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Quarto família com camas de solteiro do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/quarto-familia-com-tres-camas-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Quarto família com tres camas do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/quarto-quadruplo-camas-de-solteiro-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Quarto quádruplo camas de solteiro do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/quarto-triplo-camas-de-solteiro-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Quarto triplo camas de solteiro do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/quarto-triplo-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Quarto triplo do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/redario-e-cama-elastica-no-jardim-resort-maestro-francisco-beltrao.webp",
+        "alt": "Redário e cama elástica no jardim do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/vista-aerea-chales-e-piscinas-resort-maestro-francisco-beltrao.webp",
+        "alt": "Vista aérea chalés e piscinas do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/vista-da-janela-do-apartamento-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Vista da janela do apartamento do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/vista-da-sacada-para-a-piscina-resort-maestro-francisco-beltrao.webp",
+        "alt": "Vista da sacada para a piscina do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      }
+    ]
+  },
+  "gastronomia": {
+    "id": "gastronomia",
+    "themeClass": "theme-gastronomia",
+    "themeColor": "#D97706",
+    "title": "Gastronomia & Pensão Completa Inclusa",
+    "badge": "🍽️ Pensão Completa Inclusa",
+    "coverImg": "/maestro-thermas/shared/images/fotos-maestro/buffet-de-cafe-da-manha-colonial-maestro-thermas-francisco-beltrao.webp",
+    "seoTitle": "Gastronomia Regional, Café Colonial e Pensão Completa no Maestro Thermas",
+    "seoIntro": "A culinária no <strong>Maestro Thermas Park & Hotel Fazenda</strong> é uma verdadeira viagem de sabores da fazenda. Todas as diárias incluem pensão completa: café da manhã colonial farto, almoço e jantar com buffet variado de pratos quentes, grelhados, saladas frescas colhidas na região e sobremesas artesanais.",
+    "seoHighlights": [
+      "Pensão completa inclusa em todas as diárias (café colonial, almoço e jantar)",
+      "Café da manhã colonial com bolos caseiros, pães artesanais, queijos e sucos naturais",
+      "Almoço e jantar com buffet variado e pratos da culinária típica sulista e brasileira",
+      "Restaurante amplo com deck panorâmico com vista para a mata nativa",
+      "Adega de vinhos selecionados e bar da piscina com drinks refrescantes"
+    ],
+    "photos": [
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/adega-de-vinhos-e-loja-resort-maestro-francisco-beltrao.webp",
+        "alt": "Adega de vinhos e loja do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/buffet-de-cafe-da-manha-colonial-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Buffet de café da manhã colonial do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/buffet-do-restaurante-resort-maestro-francisco-beltrao.webp",
+        "alt": "Buffet do restaurante do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/cafe-da-manha-buffet-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Café da manhã buffet do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/chimarrao-na-cuia-personalizada-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Chimarrão na cuia personalizada do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/drink-na-beira-da-piscina-resort-maestro-francisco-beltrao.webp",
+        "alt": "Drink na beira da piscina do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/fogao-a-lenha-na-casa-colonial-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Fogão a lenha na casa colonial do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/hamburguer-do-restaurante-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Hambúrguer do restaurante do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/lago-e-restaurante-rural-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Lago e restaurante rural do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/placa-cantinho-do-chimarrao-e-passeio-de-ponei-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Placa cantinho do chimarrão e passeio de pônei do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/restaurante-com-deck-panoramico-resort-maestro-francisco-beltrao.webp",
+        "alt": "Restaurante com deck panorâmico do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/restaurante-salao-com-vista-para-mata-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Restaurante salão com vista para mata do Maestro Thermas Park & Hotel Fazenda"
+      }
+    ]
+  },
+  "fazendinha": {
+    "id": "fazendinha",
+    "themeClass": "theme-fazendinha",
+    "themeColor": "#16A34A",
+    "title": "Fazendinha Maestro com Animais",
+    "badge": "🌾 Mini Fazenda & Bichinhos",
+    "coverImg": "/maestro-thermas/shared/images/fotos-maestro/cervos-no-mini-zoologico-hotel-fazenda-maestro-francisco-beltrao.webp",
+    "seoTitle": "Fazendinha Maestro: Mini Zoológico, Passeio a Cavalo e Contato com a Natureza",
+    "seoIntro": "A <strong>Fazendinha Maestro</strong> é uma das atrações mais queridas do <strong>Maestro Thermas Park & Hotel Fazenda</strong>. Em um ambiente rural autêntico e seguro, crianças e adultos vivem momentos inesquecíveis alimentando cervos mansos, conhecendo lhamas, pôneis, ovelhas, cavalos e aves silvestres.",
+    "seoHighlights": [
+      "Interação monitorada com animais: cervos no mini-zoológico, pôneis, cavalos e lhamas",
+      "Passeio de pônei para as crianças e montaria a cavalo pela fazenda",
+      "Passeio tradicional de trenzinho puxado a trator por toda a propriedade",
+      "Espaço temático com casa colonial, fogão a lenha histórico e selaria",
+      "Atividades educativas rurais e contato direto com a fauna e flora do Paraná"
+    ],
+    "photos": [
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/alimentando-cavalos-no-pasto-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Alimentando cavalos no pasto do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/casa-colonial-de-madeira-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Casa colonial de madeira do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/casa-da-vovo-antiguidades-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Casa da vovó antiguidades do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/cavalo-pastando-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Cavalo pastando do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/cervos-no-mini-zoologico-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Cervos no mini zoologico do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/criancas-alimentando-cervos-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Crianças alimentando cervos do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/fogao-a-lenha-na-casa-colonial-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Fogão a lenha na casa colonial do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/gansos-a-beira-do-lago-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Gansos à beira do lago do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/lhamas-e-alpaca-no-pasto-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Lhamas e alpaca no pasto do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/passeio-de-ponei-para-criancas-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Passeio de pônei para crianças do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/passeio-de-trator-com-carreta-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Passeio de trator com carreta do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/placa-cantinho-do-chimarrao-e-passeio-de-ponei-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Placa cantinho do chimarrão e passeio de pônei do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/ponei-malhado-com-sela-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Pônei malhado com sela do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/ponei-malhado-no-hotel-fazenda-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Pônei malhado no hotel fazenda do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/ponei-na-baia-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Pônei na baia do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/poneis-no-campo-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Pôneis no campo do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/poneis-no-pasto-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Pôneis no pasto do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/poneis-pastando-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Pôneis pastando do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/sala-rustica-da-casa-colonial-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Sala rustica da casa colonial do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/selaria-com-selas-de-montaria-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Selaria com selas de montaria do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/trator-gigante-monumento-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Trator gigante monumento do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/trenzinho-trator-passeio-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Trenzinho trator passeio do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/tucano-na-mata-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Tucano na mata do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/tucanos-nas-arvores-nativas-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Tucanos nas árvores nativas do Maestro Thermas Park & Hotel Fazenda"
+      }
+    ]
+  },
+  "lazer": {
+    "id": "lazer",
+    "themeClass": "theme-lazer",
+    "themeColor": "#0D9488",
+    "title": "Lazer ao Ar Livre, Lago & Recreação",
+    "badge": "🎣 Pesca, Pedalinho & Trilhas",
+    "coverImg": "/maestro-thermas/shared/images/fotos-maestro/deck-de-descanso-com-poltronas-no-jardim-resort-maestro-francisco-beltrao.webp",
+    "seoTitle": "Lazer ao Ar Livre, Pesca Esportiva, Pedalinhos e Recreação no Maestro Thermas",
+    "seoIntro": "Com vasta área verde preservada, o <strong>Maestro Thermas Park & Hotel Fazenda</strong> proporciona diversão completa para quem adora natureza e esportes. o hotel fazenda conta com um grande lago com passarela para pesca esportiva e passeios de pedalinho, trilhas ecológicas com cachoeira, balanços instagramáveis e recreação para todas as idades.",
+    "seoHighlights": [
+      "Grande lago arborizado com pedalinho e estrutura de pesca esportiva",
+      "Balanço panorâmico de madeira e redários para momentos de paz e fotos inesquecíveis",
+      "Trilhas ecológicas com mata nativa preservada, tucanos e pequena cascata",
+      "Espaço Kids coberto, brinquedoteca e parquinho ao ar livre com pula-pula e gira-gira",
+      "Quiosque de jogos com mesas de sinuca oficiais e espaço jovem"
+    ],
+    "photos": [
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/area-baby-espaco-kids-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Área baby espaço kids do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/balanco-de-madeira-a-beira-do-lago-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Balanço de madeira à beira do lago do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/brinquedoteca-espaco-kids-resort-maestro-francisco-beltrao.webp",
+        "alt": "Brinquedoteca espaço kids do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/brinquedoteca-oficina-infantil-resort-maestro-francisco-beltrao.webp",
+        "alt": "Brinquedoteca oficina infantil do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/cachoeira-na-trilha-ecologica-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Cachoeira na trilha ecológica do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/cerejeiras-floridas-a-beira-do-lago-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Cerejeiras floridas à beira do lago do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/entrada-da-trilha-ecologica-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Entrada da trilha ecológica do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/espaco-kids-playground-coberto-resort-maestro-francisco-beltrao.webp",
+        "alt": "Espaço kids playground coberto do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/gansos-a-beira-do-lago-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Gansos à beira do lago do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/gira-gira-no-parquinho-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Gira gira no parquinho do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/lago-com-arvore-florida-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Lago com árvore florida do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/lago-com-arvores-no-outono-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Lago com árvores no outono do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/lago-com-barco-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Lago com barco do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/lago-com-jacare-decorativo-e-quiosque-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Lago com jacaré decorativo e quiosque do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/lago-com-quiosque-e-passarela-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Lago com quiosque e passarela do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/lago-e-jardim-com-ceu-azul-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Lago e jardim com céu azul do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/lago-e-restaurante-rural-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Lago e restaurante rural do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/lagos-e-natureza-ao-entardecer-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Lagos e natureza ao entardecer do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/mirante-dos-macacos-trilha-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Mirante dos macacos trilha do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/parquinho-infantil-no-jardim-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Parquinho infantil no jardim do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/passarela-do-lago-ao-entardecer-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Passarela do lago ao entardecer do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/pebolim-na-sala-de-jogos-resort-maestro-francisco-beltrao.webp",
+        "alt": "Pebolim na sala de jogos do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/pedalinho-de-cisne-no-lago-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Pedalinho de cisne no lago do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/pedalinhos-de-cisne-e-ponte-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Pedalinhos de cisne e ponte do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/pedalinhos-de-cisne-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Pedalinhos de cisne do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/por-do-sol-no-lago-com-pedalinho-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Pôr do sol no lago com pedalinho do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/quiosque-de-jogos-com-mesas-de-sinuca-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Quiosque de jogos com mesas de sinuca do Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/redario-e-cama-elastica-no-jardim-resort-maestro-francisco-beltrao.webp",
+        "alt": "Redário e cama elástica no jardim do hotel fazenda Maestro Thermas Park & Hotel Fazenda, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/sala-de-jogos-mesa-de-sinuca-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Sala de jogos mesa de sinuca do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/vista-aerea-hotel-e-lagos-maestro-thermas-park-hotel-fazenda.webp",
+        "alt": "Vista aérea hotel e lagos do Maestro Thermas Park & Hotel Fazenda"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/vista-aerea-lago-com-passarela-hotel-fazenda-maestro-francisco-beltrao.webp",
+        "alt": "Vista aérea lago com passarela do hotel fazenda Maestro Thermas, em Francisco Beltrão (PR)"
+      },
+      {
+        "src": "/maestro-thermas/shared/images/fotos-maestro/vista-aerea-lago-e-mata-nativa-maestro-thermas-francisco-beltrao.webp",
+        "alt": "Vista aérea lago e mata nativa do Maestro Thermas, em Francisco Beltrão (PR)"
+      }
+    ]
+  }
+}
